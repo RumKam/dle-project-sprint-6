@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+RussianNovels
+.RussianNovels
+/RussianNovels
+RussianNovels/
+RussianNovels/
 
 # Environments
 .venv
